@@ -1,0 +1,129 @@
+{
+  "applications": [
+    {
+      "address": {
+        "streets": ["Apartment S", "Halo 3", "Amy Johnson Way"],
+        "town": "YORK",
+        "country": "UNITED KINGDOM",
+        "postcode": "YO30 4ZH"
+      },
+      "mobileNumber": "+443333333333",
+      "homeNumber": "112",
+      "email": "rimkbl@telesoftas.com",
+      "title": "mr",
+      "firstName": "Rimas",
+      "middleName": "",
+      "lastName": "Kabaila",
+      "vehicle": "bike",
+      "location": "London Central",
+      "stage": "PRE_CHECKS",
+      "date": "2020-11-17T12:18:28.028Z",
+      "id": 1,
+      "type": "courier",
+      "serviceCentre": "LE",
+      "personalInfo": {
+        "dob": "1995-11-13T22:00:00.000Z",
+        "nationalInsuranceNumber": "174",
+        "nationalityDoc": "other",
+        "workedAsCourier": "yes",
+        "vat": "yes"
+      },
+      "drivingLicense": {
+        "licenseCountry": "UK",
+        "licenseType": "full-uk",
+        "licenseNumber": "741"
+      },
+      "vehicleDetails": {
+        "vehicleType": "car",
+        "vehicleOwner": "yes",
+        "makeModel": "JAZZ",
+        "manufacturer": "HONDA",
+        "co2": "150"
+      },
+      "insuranceDetails": {
+        "vehicleInsuranceType": "carriageGoods",
+        "vehicleInsuranceNumber": "456",
+        "vehicleInsuranceDate": "2020-11-09T22:00:00.000Z"
+      }
+    },
+    {
+      "address": {
+        "streets": ["Flat D-F", "Sky Apartments", "Homerton Road"],
+        "town": "LONDON",
+        "country": "UNITED KINGDOM",
+        "postcode": "E9 5FA"
+      },
+      "mobileNumber": "+443333333333",
+      "homeNumber": "112",
+      "email": "rimkbl@telesoftas.com",
+      "title": "mr",
+      "firstName": "Rimas",
+      "middleName": "",
+      "lastName": "Kabaila",
+      "vehicle": "car",
+      "location": "Brighton",
+      "stage": "ENQUIRY",
+      "date": "2020-11-17T13:43:52.936Z",
+      "id": 2,
+      "serviceCentre": "LE"
+    }
+  ],
+  "couriers": [
+    {
+      "fullName": "Mr Rimas Kabaila",
+      "serviceCentre": "LN",
+      "vehicleType": "car",
+      "vehicleOwner": "yes",
+      "userType": "vip",
+      "applicationDate": "2020-11-15T22:00:00.000Z",
+      "based": "London Central",
+      "callSign": "RK04",
+      "circuit": "on-circuit",
+      "id": 1
+    }
+  ],
+  "vacancies": [
+    {
+      "id": "1",
+      "title": "Test Vacancy",
+      "location": "Brighton",
+      "description": "Test Vacancy"
+    },
+    {
+      "id": "2",
+      "title": "Test Car",
+      "location": "London Central",
+      "description": "Test Car"
+    },
+    {
+      "id": "3",
+      "title": "Test Pushbike",
+      "location": "London Central",
+      "description": "Test Pushbike"
+    },
+    {
+      "id": "4",
+      "title": "Test Motorbike",
+      "location": "Norwich",
+      "description": "Test Motorbike"
+    },
+    {
+      "id": "5",
+      "title": "Test Small Van",
+      "location": "Brighton",
+      "description": "Test Small Van"
+    },
+    {
+      "id": "6",
+      "title": "Test Large Van",
+      "location": "London Central",
+      "description": "Large Van"
+    },
+    {
+      "id": "7",
+      "title": "Test Vacancy",
+      "location": "London Central",
+      "description": "Test Vacancy"
+    }
+  ]
+}

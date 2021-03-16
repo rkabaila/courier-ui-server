@@ -1,0 +1,7 @@
+{
+  "name": "courier-ui-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  }
+}
